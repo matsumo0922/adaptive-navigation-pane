@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/daichi-matsumoto/dev/Android/Adaptive/adaptive/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3153289714549343013.xml:2:13-83
+INJECTED from /Users/daichi-matsumoto/dev/Android/Adaptive/adaptive/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3153289714549343013.xml:2:13-83
+	package
+		INJECTED from /Users/daichi-matsumoto/dev/Android/Adaptive/adaptive/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3153289714549343013.xml
+	xmlns:android
+		ADDED from /Users/daichi-matsumoto/dev/Android/Adaptive/adaptive/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3153289714549343013.xml:2:23-81
+uses-sdk
+INJECTED from /Users/daichi-matsumoto/dev/Android/Adaptive/adaptive/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3153289714549343013.xml reason: use-sdk injection requested
+INJECTED from /Users/daichi-matsumoto/dev/Android/Adaptive/adaptive/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3153289714549343013.xml
+INJECTED from /Users/daichi-matsumoto/dev/Android/Adaptive/adaptive/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3153289714549343013.xml
+	android:targetSdkVersion
+		INJECTED from /Users/daichi-matsumoto/dev/Android/Adaptive/adaptive/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3153289714549343013.xml
+	android:minSdkVersion
+		INJECTED from /Users/daichi-matsumoto/dev/Android/Adaptive/adaptive/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3153289714549343013.xml
